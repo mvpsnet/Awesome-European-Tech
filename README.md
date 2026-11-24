@@ -187,6 +187,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on.
 - [Mikrotik](https://mikrotik.com/) 🇱🇻 - Network equipment (routers, switches).
 - [Pareto Security](https://paretosecurity.com/) 🇸🇮 - Free apps to maintain a basic security hygiene with optional centralized monitoring.
+- [TryTheHandle](https://trythehandle.eu/) 🇫🇷 - Free external security scanner for websites and servers (TLS, HTTP headers, DNS, SPF/DKIM/DMARC).
 - [Unosecur](https://www.unosecur.com/) 🇩🇪 - Identity attack management made simple for modern enterprises.
 - [Prosopo Procaptcha](https://prosopo.io/) 🇬🇧 - Security-focused CAPTCHA solution to protect against bots and automation threats.
 - [Vysion](https://byronlabs.io/vysion) 🇪🇸 - Cyber threat intelligence platform that monitors darknets and cybercrime forums to provide real-time insights into emerging threats, including ransomware activities.
